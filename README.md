@@ -18,9 +18,7 @@ Many women’s football clubs and players are undervalued by sponsors due to the
 
 ## How is it used?
 
-This project depends on primarily on match footage from broadcasters, match highlights, and social media clips where sponsor logos are visible. Further data sources can include club press images and social media posts to capture sponsor exposure outside the pitch. The quality of the data would generally be quite high, considering broadcasters are captured in high definition. However, accessibility may be an issue considering I may need access to rights-protected footage from clubs and leagues.
-
-AI techniques for this project would utilise sports event data, video and logo detection , and machine learning. I would need to collect to collect videos clips from football matches, from highlights, full-match recordings, and social media clips). A dataset of sponsor logos that appear on kits, pitch boards, or interview backdrops. Match event data from public APIs such as Football-Data.org. Engagement data from social media APIs to track clips. I would then need to use a computer vision API to scan frames of match clips, identify how often sponsor logos appear. Tagging each appearance with a goal, reply, or general play. This would show not only how often a sponsor appears, but in what moment. A classification model would treat whether a sponsor appearance would be ‘high-value’ or ‘low-value’ For instance, a sponsor appearing in a last-minute goal celebration would be ‘high-value’. A regression model could estimate how logo visibility relates to fan engagement via views, likes and shares. A deep learning algorithm such as a convolutional neural network (CNNs) could identify sponsor logos accurately. Combining all this could produce an exposure score that combines frequency, duration, and emotional context of sponsor visibility. This model could be trained to a point where it could be used in live matches where clubs and sponsors could see the ROI of their partnership in real-time.
+My project would be used in the sport sponsorship/marketing world in the women’s football game. The main clients would be clubs who would use the model to generate AI-driven reports showing sponsors the commercial impact of women’s football, and so helping them secure more lucrative deals. Players themselves could use this to prove their own commercial value when it comes to their own personal branding. It would give players a leverage in sponsorship negotiations. Further, sponsors could utilise this project as they can track the real return on their sponsorship. Ultimately, fans would, indirectly, benefit from increased investment in women’s game. The ideal would be: Match footage &rarr; AI analysis &rarr; Insights &rarr; Actions for each stakeholder.
 
 
 ## Data and AI Methods
@@ -30,18 +28,13 @@ This project depends on primarily on match footage from broadcasters, match high
 AI techniques for this project would utilise sports event data, video and logo detection , and machine learning. I would need to collect to collect videos clips from football matches, from highlights, full-match recordings, and social media clips). A dataset of sponsor logos that appear on kits, pitch boards, or interview backdrops. Match event data from public APIs such as Football-Data.org. Engagement data from social media APIs to track clips. I would then need to use a computer vision API to scan frames of match clips, identify how often sponsor logos appear. Tagging each appearance with a goal, reply, or general play. This would show not only how often a sponsor appears, but in what moment. A classification model would treat whether a sponsor appearance would be ‘high-value’ or ‘low-value’ For instance, a sponsor appearing in a last-minute goal celebration would be ‘high-value’. A regression model could estimate how logo visibility relates to fan engagement via views, likes and shares. A deep learning algorithm such as a convolutional neural network (CNNs) could identify sponsor logos accurately. Combining all this could produce an exposure score that combines frequency, duration, and emotional context of sponsor visibility. This model could be trained to a point where it could be used in live matches where clubs and sponsors could see the ROI of their partnership in real-time.
 
 
+## Challenges
 
 
-
-## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
