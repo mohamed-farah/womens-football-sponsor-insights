@@ -31,15 +31,20 @@ AI techniques for this project would utilise sports event data, video and logo d
 ## Challenges
 
 This project does not guarantee increased visibility of sponsors will lead to more lucrative sponsorships deals; it only provides data to support negotiations. It also does not address all variables that influence sponsorship value such as brand alignment and off-field player influence. Another challenge could be measuring the emotional impact of sponsorship exposure, when it comes to what is considered a ‘low-value’ and ‘high-value’ moment.
+
 A limitation to consider is how accessible the data is. As mentioned, full-match replays are not always publicly available so I would need permission to obtain this from broadcasters or leagues. Another limitation would be how accurate would the logo detection be considering that football games are fast paced, so would an image detector be affected by motion blur or lighting.
 An ethical consideration would be about transparency. Stakeholders should clearly understand how the AI measures ‘value’ and how it comes to its decisions.
 
 
 ## What Next?
 
-This project could grow into a comprehensive sponsorship intelligence platform for women’s football. Another company ‘Nielsen’…
+This project could grow into a comprehensive sponsorship intelligence platform for women’s football. In the future it could integrate predictive analytics to forecast sponsorship value for upcoming tournaments, helping clubs and players proactively pitch to brands.
 
-In the future the project could integrate predictive analytics to forecast sponsorship value for upcoming tournaments, helping clubs and players proactively pitch to brands.
+A big player in this field is ‘Nielsen Sports’ who are an seen as leaders for sponsorship valuation. They work with major rights holders and provide media valuation reports for sponsors. Whilst they cover a large range of sport, my project would focus specifically for the women’s game, where there is a clear gap in sponsorship analytics. My project would also provide a more open, data-driven approach that would be accessible to smaller clubs and leagues.
+
+To move forward in this project, it would require the technical skills in creating a model which could comprehensively produce useful insights in the reach of women’s football. It would require data partnerships to access official broadcast footage. Design and UX skills would prove useful in creating dashboards and reports that stakeholders can easily navigate and understand.
+
+
 
 
 ![Image](https://github.com/user-attachments/assets/641ea537-1e0c-4b4c-a209-5d160a221fd3)
@@ -56,4 +61,6 @@ In the future the project could integrate predictive analytics to forecast spons
 - [FIFPRO (2023), via Wikipedia summary](https://en.wikipedia.org/wiki/Labour_relations_in_women%27s_association_football) – 29% of women players were not paid for World Cup qualifying, and 66% had to take unpaid leave from other jobs to compete.
 
 
-- [Aitana Bonmati Press Conference during the 2025 Women's Euro in Switzerland by Florencia Tan Jun]([https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks](https://media.gettyimages.com/id/2225631565/photo/bern-switzerland-aitana-bonmati-of-spain-speaks-to-the-media-during-the-spain-press.jpg?s=612x612&w=gi&k=20&c=D-6L_3zeUmBrcsaa7_rMsI79yxq9gQsZWljscTA_wpM=)
+- [Aitana Bonmati Press Conference during the 2025 Women's Euro in Switzerland by Florencia Tan Jun](https://media.gettyimages.com/id/2225631565/photo/bern-switzerland-aitana-bonmati-of-spain-speaks-to-the-media-during-the-spain-press.jpg?s=612x612&w=gi&k=20&c=D-6L_3zeUmBrcsaa7_rMsI79yxq9gQsZWljscTA_wpM=)
+
+- [Barcelona lifting the Women's Champions League Trophy 2024](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwgno.com%2Fsports%2Fap-sports%2Fap-uefa-celebrates-growth-of-womens-soccer-as-barcelona-lifts-another-womens-champions-league-trophy%2F&psig=AOvVaw3TWbUMRRkZg2flATZuThVd&ust=1755427346795000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNjLgc2Sj48DFQAAAAAdAAAAABBU)
