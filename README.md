@@ -30,6 +30,10 @@ AI techniques for this project would utilise sports event data, video and logo d
 
 ## Challenges
 
+This project does not guarantee increased visibility of sponsors will lead to more lucrative sponsorships deals; it only provides data to support negotiations. It also does not address all variables that influence sponsorship value such as brand alignment and off-field player influence. Another challenge could be measuring the emotional impact of sponsorship exposure, when it comes to what is considered a ‘low-value’ and ‘high-value’ moment.
+A limitation to consider is how accessible the data is. As mentioned, full-match replays are not always publicly available so I would need permission to obtain this from broadcasters or leagues. Another limitation would be how accurate would the logo detection be considering that football games are fast paced, so would an image detector be affected by motion blur or lighting.
+An ethical consideration would be about transparency. Stakeholders should clearly understand how the AI measures ‘value’ and how it comes to its decisions.
+
 
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
@@ -38,7 +42,10 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project could grow into a comprehensive sponsorship intelligence platform for women’s football. Another company ‘Nielsen’…
+
+In the future the project could integrate predictive analytics to forecast sponsorship value for upcoming tournaments, helping clubs and players proactively pitch to brands.
+
 
 ## What next?
 
