@@ -42,6 +42,7 @@ This project could grow into a comprehensive sponsorship intelligence platform f
 In the future the project could integrate predictive analytics to forecast sponsorship value for upcoming tournaments, helping clubs and players proactively pitch to brands.
 
 
+![Image](https://github.com/user-attachments/assets/641ea537-1e0c-4b4c-a209-5d160a221fd3)
 
 
 ## Acknowledgments
