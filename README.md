@@ -25,7 +25,7 @@ My project would be used in the sport sponsorship/marketing world in the women�
 
 This project depends on primarily on match footage from broadcasters, match highlights, and social media clips where sponsor logos are visible. Further data sources can include club press images and social media posts to capture sponsor exposure outside the pitch. The quality of the data would generally be quite high, considering broadcasters are captured in high definition. However, accessibility may be an issue considering I may need access to rights-protected footage from clubs and leagues.
 
-AI techniques for this project would utilise sports event data, video and logo detection , and machine learning. I would need to collect to collect videos clips from football matches, from highlights, full-match recordings, and social media clips). A dataset of sponsor logos that appear on kits, pitch boards, or interview backdrops. Match event data from public APIs such as Football-Data.org. Engagement data from social media APIs to track clips. I would then need to use a computer vision API to scan frames of match clips, identify how often sponsor logos appear. Tagging each appearance with a goal, reply, or general play. This would show not only how often a sponsor appears, but in what moment. A classification model would treat whether a sponsor appearance would be ‘high-value’ or ‘low-value’ For instance, a sponsor appearing in a last-minute goal celebration would be ‘high-value’. A regression model could estimate how logo visibility relates to fan engagement via views, likes and shares. A deep learning algorithm such as a convolutional neural network (CNNs) could identify sponsor logos accurately. Combining all this could produce an exposure score that combines frequency, duration, and emotional context of sponsor visibility. This model could be trained to a point where it could be used in live matches where clubs and sponsors could see the ROI of their partnership in real-time.
+AI techniques for this project would utilise sports event data, video and logo detection , and machine learning. I would need to collect to collect videos clips from football matches, from highlights, full-match recordings, and social media clips). A dataset of sponsor logos that appear on kits, pitch boards, or interview backdrops. Match event data from public APIs such as [Opta by Stats Perform API](https://www.statsperform.com/opta/). Engagement data from social media APIs such as [Twitter API](https://developer.twitter.com/en/docs) and [Instagram Graph API](https://developers.facebook.com/products/instagram/apis/) to track clips. I would then need to use a computer vision API to scan frames of match clips, identify how often sponsor logos appear. [Google Cloud Vision API](https://cloud.google.com/vision). Tagging each appearance with a goal, reply, or general play. This would show not only how often a sponsor appears, but in what moment. A classification model would treat whether a sponsor appearance would be ‘high-value’ or ‘low-value’ For instance, a sponsor appearing in a last-minute goal celebration would be ‘high-value’. A regression model could estimate how logo visibility relates to fan engagement via views, likes and shares. A deep learning algorithm such as a convolutional neural network (CNNs) could identify sponsor logos accurately. Combining all this could produce an exposure score that combines frequency, duration, and emotional context of sponsor visibility. This model could be trained to a point where it could be used in live matches where clubs and sponsors could see the ROI of their partnership in real-time.
 
 
 ## Challenges
@@ -35,27 +35,24 @@ A limitation to consider is how accessible the data is. As mentioned, full-match
 An ethical consideration would be about transparency. Stakeholders should clearly understand how the AI measures ‘value’ and how it comes to its decisions.
 
 
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-
-## Challenges
+## What Next?
 
 This project could grow into a comprehensive sponsorship intelligence platform for women’s football. Another company ‘Nielsen’…
 
 In the future the project could integrate predictive analytics to forecast sponsorship value for upcoming tournaments, helping clubs and players proactively pitch to brands.
 
 
-## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
-```
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+- [Brand Finance 2023](https://brandfinance.com/press-releases/total-potential-of-womens-football-sponsorship-undervalued-by-over-us1-billion) – Total potential of women’s football sponsorship undervalued by over US$1 billion.
+
+- [Ampere Analysis via Inside World Football (2025)](https://www.insideworldfootball.com/2025/06/26/uefa-womens-euro-2025-course-double-sponsorship-revenues) – UEFA Women’s Euro 2025 projected to generate at least €32.5 million in sponsorship revenue, more than double the €15.3 million of 2022.
+
+- [The Office for Women in Sport and Recreation (2024), summarised by SPORTFIVE](https://sportfive.us/beyond-the-match/insights/the-commercialisation-of-womens-football) – Every $1 invested in women’s sports generates an average of $7.29 in customer value return.
+
+- [FIFPRO (2023), via Wikipedia summary](https://en.wikipedia.org/wiki/Labour_relations_in_women%27s_association_football) – 29% of women players were not paid for World Cup qualifying, and 66% had to take unpaid leave from other jobs to compete.
+
+
+- [Aitana Bonmati Press Conference during the 2025 Women's Euro in Switzerland by Florencia Tan Jun]([https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks](https://media.gettyimages.com/id/2225631565/photo/bern-switzerland-aitana-bonmati-of-spain-speaks-to-the-media-during-the-spain-press.jpg?s=612x612&w=gi&k=20&c=D-6L_3zeUmBrcsaa7_rMsI79yxq9gQsZWljscTA_wpM=)
